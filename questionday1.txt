@@ -1,0 +1,15 @@
+1. What is #include<stdio.h>?
+Ans: It is a file which contains the prototypes of all the functions of the program and helps 
+in better execution of the program by identifying the errors at the compilation time.
+
+2.What is printf?
+Ans: It is a output function predefined in the header file #include<stdio.h> which prints any character,string,or alphanumerical element.
+
+3.What is main?
+Ans:  It is the entry point of a program.
+
+4.Why should you learn touch typing on qwerty keyboard?
+Ans: Touch typing must be learned for faster typing and so that your concentration is only focused on the code and not on the keyborad. It also adds a small amount professionalism in you.
+
+5.How will you learn touch typing in qwerty keyboard?
+Ans: Touch typing needs practice and only practice. You can go for some typing tutor apps.
